@@ -1,0 +1,78 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/*--------------Get in touch------*/
+#container
+{
+    background: #efefef;
+    padding-top: 4opx;
+    padding-bottom: 30;
+    color: #777;
+}
+.contact-form
+{
+    padding: 15px;
+}
+.form-control
+{
+    border-radius: 0 !important;
+    border: none !important;
+}
+::placeholder
+{
+    color: #999 !important;
+}
+.follow
+{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+}
+.contact-infor .fa 
+{
+  margin: 10px;
+  color: #007bff;
+  font-weight: bold;
+}
+#flooter
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa heart-o
+{
+    margin: 3px;
+    color: red;
+}
+.Images
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0px 0 0 115px;
+}
+
+#flooter
+{
+    text-align: center;
+    background-color: black;
+}
+.box7
+{
+    display:inline-block;
+
+
+}
+ .box7 ol{
+     list-style-type: none;
+ }
+input
+{
+    width: 50%;
+    text-align: center;
+    height: 60px;
+    background-color:white;
+
+}
